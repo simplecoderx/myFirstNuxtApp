@@ -1,6 +1,9 @@
 <script setup lang="ts">
-const { $sayHello } = useNuxtApp();
-$sayHello ("lynn");
+/* const { $sayHello } = useNuxtApp();
+$sayHello ("lynn"); */
+definePageMeta({
+    middleware : "auth",
+});
 </script>
 
 <template>

@@ -1,5 +1,6 @@
 <template>
-    <div>
-        Index Page
+    <div class="Main">
+<!--         <Alert /> -->
+        <ProfileHeaderAvatar />
     </div>
 </template>

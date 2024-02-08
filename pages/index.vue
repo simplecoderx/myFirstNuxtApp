@@ -1,6 +1,3 @@
 <template>
-    <div class="Main">
-<!--         <Alert /> -->
-        <ProfileHeaderAvatar />
-    </div>
+    <div class="Main">Main Page</div>
 </template>

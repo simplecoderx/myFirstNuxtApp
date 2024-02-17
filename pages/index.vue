@@ -1,11 +1,14 @@
 <script setup>
-import { useCounterStore } from "@/stores/myStore";
+import { useCounterStore } from '@/stores/myStore';
 const store = useCounterStore();
 console.log(store);
 </script>
 
 <template>
-<div class="main">Hello</div>
+        <div class="Main">
+                        Hello
+                <Counter />
+        </div>
 </template>
 
-<style lang="scss"> </style>
+<style lang="scss"></style>

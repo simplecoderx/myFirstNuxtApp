@@ -1,6 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import { resolve } from "path"
 export default defineNuxtConfig({
+  app: {
+    head: {
+      title: 'Nuxt Sample Title',
+      meta: [{
+        name: "description",
+        content: "This is my first Nuxt application"
+      }] 
+    }
+  },
   alias: {
    /*  "@": resolve(__dirname, "/"), */
    assets: "/<rootDir>/assets",

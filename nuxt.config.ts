@@ -10,6 +10,9 @@ export default defineNuxtConfig({
       }] 
     }
   },
+  hooks: {
+    ready: (ctx) => console.log(ctx),
+  },
   alias: {
    /*  "@": resolve(__dirname, "/"), */
    assets: "/<rootDir>/assets",

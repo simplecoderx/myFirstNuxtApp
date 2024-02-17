@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Laptop",
+        "price": 999.99,
+        "description": "Powerful laptop with high-performance specifications.",
+        "image": "laptop.jpg"
+      },
+      {
+        "name": "Smartphone",
+        "price": 699.99,
+        "description": "Latest smartphone with advanced features and sleek design.",
+        "image": "smartphone.jpg"
+      },
+      {
+        "name": "Headphones",
+        "price": 149.99,
+        "description": "Wireless headphones with noise-canceling technology for immersive audio experience.",
+        "image": "headphones.jpg"
+      },
+      {
+        "name": "Smartwatch",
+        "price": 249.99,
+        "description": "Smartwatch with health tracking capabilities and long battery life.",
+        "image": "smartwatch.jpg"
+      },
+      {
+        "name": "Camera",
+        "price": 799.99,
+        "description": "Professional camera with high-resolution sensor and interchangeable lenses.",
+        "image": "camera.jpg"
+      },
+      {
+        "name": "Tablet",
+        "price": 399.99,
+        "description": "Versatile tablet for productivity and entertainment on the go.",
+        "image": "tablet.jpg"
+      },
+      {
+        "name": "Gaming Console",
+        "price": 499.99,
+        "description": "Next-gen gaming console for immersive gaming experience.",
+        "image": "gaming_console.jpg"
+      },
+      {
+        "name": "Wireless Speaker",
+        "price": 129.99,
+        "description": "Portable wireless speaker with crisp sound quality and long-lasting battery.",
+        "image": "speaker.jpg"
+      },
+      {
+        "name": "Drone",
+        "price": 899.99,
+        "description": "High-flying drone with HD camera for aerial photography and videography.",
+        "image": "drone.jpg"
+      },
+      {
+        "name": "Fitness Tracker",
+        "price": 79.99,
+        "description": "Fitness tracker to monitor activity levels, heart rate, and sleep quality.",
+        "image": "fitness_tracker.jpg"
+      }
+    ]
+  }
+  
